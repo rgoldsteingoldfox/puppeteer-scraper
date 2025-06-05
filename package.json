@@ -8,9 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.5.0",
     "puppeteer": "^24.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgoldsteingoldfox/puppeteer-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rgoldsteingoldfox/puppeteer-scraper/issues"
+  },
+  "homepage": "https://github.com/rgoldsteingoldfox/puppeteer-scraper#readme",
+  "description": ""
 }
